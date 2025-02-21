@@ -1,4 +1,3 @@
-![20250220 Reactive Responce Plexus (scaled)](https://github.com/user-attachments/assets/07487114-86d0-4644-8fe7-a12486eba282)
 
 
 # Runar
